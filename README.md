@@ -4,13 +4,11 @@
 <b>Tools:</b> Power BI<br><br>
 <b>Dataset from Kaggle:</b> https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-# 📊 Superstore Sales Analysis Dashboard (Power BI)
+# Superstore Sales Analysis Dashboard (Power BI)
 
-## 📁 Dataset Used
+## Dataset Used
 
 - `Superstore.csv` — standard sales dataset including fields like `Sales`, `Profit`, `Category`, `Region`, `Segment`, etc.
-
----
 
 ## Objective
 
@@ -21,8 +19,6 @@ I aimed to answer critical business questions such as:
 - How is the business performing regionally?
 - What customer segments generate the most revenue?
 - Are there products with high sales but low or negative profit?
-
----
 
 ## Key Insights & Visuals
 
@@ -50,21 +46,15 @@ I aimed to answer critical business questions such as:
 **Scatter Plot (Sales vs Profit)**:  
 - Helps identify outlier products with negative profit despite strong sales.
 
----
-
 ## 📷 Dashboard Preview
 
 ![Superstore Dashboard](Superstore%20Analysis%20Dashboard.png)
-
----
 
 ## Tools Used
 
 - Power BI Desktop
 - Power Query (for cleaning)
 - GitHub (for version control & submission)
-
----
 
 ## Learnings
 
