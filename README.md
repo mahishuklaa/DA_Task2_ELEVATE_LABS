@@ -46,10 +46,6 @@ I aimed to answer critical business questions such as:
 **Scatter Plot (Sales vs Profit)**:  
 - Helps identify outlier products with negative profit despite strong sales.
 
-## 📷 Dashboard Preview
-
-![Superstore Dashboard](Superstore%20Analysis%20Dashboard.png)
-
 ## Tools Used
 
 - Power BI Desktop
